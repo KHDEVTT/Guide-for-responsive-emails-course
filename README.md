@@ -7,6 +7,8 @@ Getting up and running with the Responsive HTML Emails Course
 - [Use with VSCode](#use-with-vscode)
 - [Install Node Version Manager](#install-node-version-manager)
 
+
+
 ## Prerequisites
 
  - [ ] Install the latest  Nodejs (__LTS - Long Term Support version__) from [Nodejs website](https://nodejs.org/en/) 
@@ -18,10 +20,6 @@ Getting up and running with the Responsive HTML Emails Course
  - [ ] In your ```Projects``` folder, create a new folder ```cp-email```. This is where you will build the project for this course.
  - [ ] Download the [project starter files](https://github.com/codingphasedotcom/courses-files/blob/master/email-course-starting-files.zip) by clicking on the ```download``` button.
  - [ ] Extract this zip file. 
-
- 
-
-
 
  
 
@@ -37,6 +35,8 @@ Getting up and running with the Responsive HTML Emails Course
  - [ ] ```npm install ``` run this command to install all the dependencies.
  - [ ] ```npm run watch``` run this command to start the web developer starter kit.
  - [ ] Follow the course.
+ 
+ 
 
 ## Use with VSCode
 
@@ -97,6 +97,6 @@ Getting up and running with the Responsive HTML Emails Course
 ### _IMPORTANT_:
 #### _If you are getting "access denied" errors, run your terminal in administrator mode_.
 
-> If this was helpful give it a star
+> If this was helpful give it a star. You can also bookmark it with a star. Have fun
 
 > Written for CodingPhase by  [Karen](https://khdevtt.com/).
