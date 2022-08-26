@@ -97,6 +97,6 @@ Getting up and running with the Responsive HTML Emails Course
 ### _IMPORTANT_:
 #### _If you are getting "access denied" errors, run your terminal in administrator mode_.
 
-> If this was helpful give it a star. You can also bookmark it with a star. Have fun
+> Stars are fun. Use them to bookmark this Repo for your reference. Have fun
 
 > Written for CodingPhase by  [Karen](https://khdevtt.com/).
